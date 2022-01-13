@@ -59,45 +59,31 @@ class Ninja:
 
 pet1 = Pet("Valentina", "Siberian Husky", "Dog athlete")
 elena = Ninja("Elena", "Ishikawa", "Bone", "Raw dog food", pet1)
-# elena.print_info()
+elena.print_info()
 
 pet2 = Pet("Taco", "Parrot", "Singer")
 henry= Ninja("Henry", "Kubric", "Fruit", "Corn", pet2)
-# henry.print_info()
+henry.print_info()
 
 pet3 = Pet("Mango", "Goat", "Comedian")
 charles = Ninja("Charles", "Wolf", "Rye Bread", "Leftovers", pet3)
-# charles.print_info()
-
-# charles.print_info()
-charles.feed()
-# charles.print_info()
-charles.walk()
-# charles.print_info()
-charles.walk()
 charles.print_info()
 
-elena.feed()
-elena.walk()
-elena.feed()
-elena.print_info()
+# charles.print_info()
+# charles.feed()
+# charles.print_info()
+# charles.walk()
+# charles.print_info()
+# charles.walk()
+# charles.print_info()
 
-henry.feed()
-henry.feed()
-henry.walk()
-henry.feed()
-henry.print_info()
+# elena.feed()
+# elena.walk()
+# elena.feed()
+# elena.print_info()
 
-
-
-
-
-
-
-
-
-
-
-
-
-    
+# henry.feed()
+# henry.feed()
+# henry.walk()
+# henry.feed()
+# henry.print_info()
